@@ -1,3 +1,4 @@
-#### Forecasting bike rental demand in the bike share program, based on historical usage pattern with weather data.
+#### Forecasting bike rental demand in the bike share program using following algorithms:
 - Decision tree model
 - Random forest model
+###### ***Given a historical usage pattern with weather data contained in the Excel workbook
